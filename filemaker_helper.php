@@ -1,7 +1,6 @@
 <?php
 
-// from development
-// from development2
+// from feature branch
 class FilemakerAuth {
     private $host;
     private $dbName;
