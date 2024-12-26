@@ -1,6 +1,6 @@
 <?php
 
-// from feature branch
+// from hotfix branch
 class FilemakerAuth {
     private $host;
     private $dbName;
